@@ -4,11 +4,6 @@ Spoiler alert, you cannot.
 
 Through out this post we will discuss on how venv works, why you cannot activate a venv from python.
 
-> Description
-> 
-> All the facts and code discussed here are something that i've found during my coding research and learning, somethings that I point out or explained about might be wrong.
-> 
-> If I'm wrong correct me in the comment sections
 
 ## How does a venv work or gets activated.
 
@@ -98,3 +93,9 @@ Now if you want to activate a venv from python script It's not possible. Let's y
 * ```cmd
   test  # this will execute the test script
   ```
+
+> Description
+> 
+> All the facts and code discussed here are something that i've found during my coding research and learning, somethings that I point out or explained about might be wrong.
+> 
+> If I'm wrong correct me in the comment sections
