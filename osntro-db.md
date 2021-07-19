@@ -9,6 +9,7 @@ pip install onstro-db
 ### Let's see how fast it is.
 
 In this example we can make a DB with 4 columns and in which 2 columns have a default value. Which are added during **Runtime**.
+We will be adding 10,000 values to the DB and check how fast it is.
 
 The test code
 
